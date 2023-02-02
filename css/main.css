@@ -3,8 +3,6 @@ display: grid;
 padding: 40px 0 40px;
 grid-template-columns: 334px 334px;
 gap: 20px;
-
-
 }
 
 .box {
@@ -48,7 +46,8 @@ column-gap: 40px;
 }
 
 @media (max-width: 580px) {
-    .grid {
+    
+.grid {
 grid-template-columns: 320px;
 gap: 20px;
 justify-content: space-around;

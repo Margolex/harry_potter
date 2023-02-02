@@ -73,15 +73,7 @@ select {
   .header {
     width: 100%;
   }
-  h1 {
-    margin-bottom: 14px;
-    font-size: 52px;
-    line-height: 63px;
-  }
-  h2 {
-    font-size: 16px;
-    line-height: 28px;
-  }
+  
   .search {
     width: 100%;
   }
